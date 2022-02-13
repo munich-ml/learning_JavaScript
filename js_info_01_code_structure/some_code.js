@@ -1,0 +1,1 @@
+alert( 'Pop-up out of the .js source file' );
